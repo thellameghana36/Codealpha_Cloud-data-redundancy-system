@@ -25,3 +25,5 @@ python app.py
 
 ### 🎯 Result
 Project successfully removes duplicate files and optimizes cloud storage.
+### 🎥 Demo Video
+[Click here to watch demo video](./Screen%20Recording%202026-09-20%20172412.mp4)
