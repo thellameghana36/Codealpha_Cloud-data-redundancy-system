@@ -17,3 +17,11 @@ Python, Flask, HTML, CSS, Hashlib
 ```bash
 pip install flask
 python app.py
+```
+### 📸 Project Screenshots
+
+![Screenshot 1](Screenshot%202026-09-20%20155803.png)
+![Screenshot 2](Screenshot%202026-09-20%20155859.png)
+
+### 🎯 Result
+Project successfully removes duplicate files and optimizes cloud storage.
