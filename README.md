@@ -1,6 +1,6 @@
 # ☁️ CodeAlpha - Cloud Data Redundancy Removal System
 
-**Intern: Thellam Meghana | Task-1 Completed**
+**Intern: Thella Meghana | Task-1 Completed**
 
 ### 📌 Overview
 A Flask-based cloud storage system that prevents data duplication using SHA-256 hashing. Optimizes cloud storage usage.
